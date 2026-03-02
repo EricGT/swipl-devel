@@ -118,3 +118,9 @@
 [submodule "packages/json"]
 	path = packages/json
 	url = ../packages-json.git
+[submodule "packages/rocksdb"]
+	path = packages/rocksdb
+	url = https://github.com/EricGT/rocksdb.git
+[submodule "packages/rocks-predicates"]
+	path = packages/rocks-predicates
+	url = https://github.com/EricGT/rocks-predicates.git
